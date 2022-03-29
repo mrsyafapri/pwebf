@@ -46,12 +46,6 @@
 
         <button type="submit">Simpan</button>
         <button type="reset">Reset</button>
-
-        <br>
-        <video controls width="50%" loop autoplay>
-            <source src="./videos/strange.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
     </form>
 </body>
 
